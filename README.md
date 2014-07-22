@@ -3,6 +3,14 @@
 Adds pry configuration (like jazz_hands gem) but
 working with ruby >= 2.0
 
+Basically it turns
+
+![rails console before](https://github.com/trustner/prettypry/raw/master/docs/images/railsc_before.png)
+
+into
+
+![rails console after](https://github.com/trustner/prettypry/raw/master/docs/images/railsc_after.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
