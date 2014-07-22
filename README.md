@@ -1,13 +1,14 @@
-# Prettypry
+# PrettyPry
 
-TODO: Write a gem description
+Adds pry configuration (like jazz_hands gem) but
+working with ruby >= 2.0
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'prettypry'
+gem 'prettypry', :github => 'trustner/prettypry'
 ```
 
 And then execute:
@@ -18,9 +19,6 @@ Or install it yourself as:
 
     $ gem install prettypry
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
@@ -29,3 +27,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
