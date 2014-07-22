@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Matthias Hannig"]
   spec.email         = ["hannig@trustner.com"]
   spec.summary       = %q{Adds jazz_hands functionaliy for ruby > 2.0}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/trustner/prettypry"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
