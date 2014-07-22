@@ -5,6 +5,7 @@
 #
 
 require 'pry'
+require 'awesome_print'
 require 'coolline'
 require 'coderay'
 require 'hirb'
